@@ -29,8 +29,7 @@ public static void main(String[] args) {
 	for(int i=0;i<list.size();i++)
 	{
 		WebElement row = list.get(i);
-		String text = row.getText();
-		System.out.println(text);
+		
 	}
 	
 	
