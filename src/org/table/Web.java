@@ -32,6 +32,7 @@ public static void main(String[] args) throws InterruptedException {
 		String text = row.getText();
 		System.out.println(text);
 		Thread.sleep(1000);
+
 	}
 	
 	
